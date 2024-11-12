@@ -1,3 +1,24 @@
+body {
+background-color: aquamarine;
+color: black;
+}
+
+<section> {
+    background-color: blanchedalmond;
+    padding-top:85px ;
+    display: flex;
+}
+ .primeirachamada {
+ margin-right: 5%;
+ }
+
+  .maisvideossobremotoscommortorzao {
+    display: flex;
+    overflow-y: auto;
+    gap: 10px;
+  }
+
+
 header {
 margin:40px ;
 background-color: #5350F2;
@@ -5,14 +26,6 @@ border: solid 3px rgb(rgb(41, 247, 0), rgb(222, 238, 0), blue);
 padding:25px; 
 }
 
+ 
 
-body {
-background-color: rgb(66, 92, 141);
-color: black;
-}
 
-section {
-background-color: brown;
-margin:40px ;
-display: flex;
-}
